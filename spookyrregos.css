@@ -185,4 +185,5 @@
   height: 225px;
   background: url("https://i.postimg.cc/h4dLhdbZ/pngegg.png") center/100% no-repeat;
   pointer-events: none;
+  opacity: 0.666;
 }
