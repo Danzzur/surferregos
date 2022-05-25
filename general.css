@@ -1,4 +1,26 @@
+/* B A N N E R */
+
+.container-1NXEtd[aria-label^="Surferregos"] .header-3OsQeK {
+  height: 180px;
+  padding: 5px;
+  align-items: flex-start;
+}
+.container-1NXEtd[aria-label^="Surferregos"] .header-3OsQeK::before {
+  content: "";
+  position: absolute;
+  top: 0px;
+  left: 0;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  background: url("https://i.pinimg.com/originals/24/41/da/2441dacfd5703b140a2816f82bd0f9c7.gif") center/cover no-repeat;
+  -webkit-mask: linear-gradient(#ffffff, transparent);
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
 /*ANIMATED ROLES*/
+
 
 /*Danzzur*/
 
